@@ -1,3 +1,3 @@
 # Git Course
 
-Arquivo teste para o curso de git.
+Arquivo teste para o curso de git. Teste.
